@@ -35,4 +35,4 @@ for t in range(1, T):
     ##scaling
 
     print(alpha)
-
+print(alpha[0][-1] + alpha[1][-1])
